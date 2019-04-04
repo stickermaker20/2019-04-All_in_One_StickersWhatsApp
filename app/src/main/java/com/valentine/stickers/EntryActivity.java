@@ -26,6 +26,7 @@ import java.util.ArrayList;
 public class EntryActivity extends BaseActivity {
     private View progressBar;
     private LoadListAsyncTask loadListAsyncTask;
+    ///hiii
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
